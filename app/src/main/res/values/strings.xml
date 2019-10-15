@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PruebaCalculadora</string>
+
+    <string name="msg">Calculadora Basica</string>
+    <string name="edit1">Ingrese el primer dato</string>
+    <string name="edit2">engrese el segundo dato</string>
+    <string name="btn1">SUMA</string>
+    <string name="btn2">RESTA</string>
+    <string name="btn3">DIVICION</string>
+    <string name="btn4">MULTIPLICACION</string>
+    <string name="resul">Resultado</string>
+
+    <string name="dato">resultado de la suma</string>
+    <string name="relsuma"></string>
+    <string name="btndevol">REGRESAR</string>
+
+    <string name="dato2">resultado de la resta</string>
+    <string name="relresta"></string>
+    <string name="btnanterior">REGRESAR</string>
+
+
+</resources>
